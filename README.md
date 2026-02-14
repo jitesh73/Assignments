@@ -14,8 +14,8 @@ Task 2.2: Sum of Integers from 1 to 50 – Functionality
 This program uses a for loop to iterate through numbers from 1 to 50 and calculates the sum of all integers in this range.
 After completing the loop, the program displays the final calculated sum to the user.
 
-Task 1:
+Task 3.1:
 The program defines a function to calculate the factorial of a number using a loop. It takes user input, calls the function, and displays the result.
 
-Task 2:
+Task 3.2:
 The program uses Python’s built-in math module to calculate the square root, natural logarithm, and sine of a user-entered number. The results are then displayed.
