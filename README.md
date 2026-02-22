@@ -19,3 +19,12 @@ The program defines a function to calculate the factorial of a number using a lo
 
 Task 3.2:
 The program uses Python’s built-in math module to calculate the square root, natural logarithm, and sine of a user-entered number. The results are then displayed.
+
+Task 4.1: Read a File and Handle Errors 
+This program opens and reads a file named sample.txt and displays its content line by line.
+If the file does not exist, the program handles the error using exception handling and displays an appropriate error message instead of crashing.
+
+Task 4.2: Write and Append Data to a File
+This program takes input from the user and writes it to a file named output.txt.
+It then takes additional input and appends it to the same file.
+Finally, the program reads and displays the complete content of the file.
