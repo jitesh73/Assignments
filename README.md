@@ -1,10 +1,8 @@
 Task 1 – Basic Mathematical Operations
 This program takes two numbers from the user and performs addition, subtraction, multiplication, and division, then displays the results.
 
-
 Task 2 – Personalized Greeting
 This program takes the user’s first and last name as input and displays a personalized welcome message.
-
 
 Task 2.1: Check if a Number is Even or Odd – Functionality
 This program takes an integer input from the user and checks whether the number is even or odd using an if-else control structure.
@@ -25,12 +23,11 @@ This program opens and reads a file named sample.txt and displays its content li
 If the file does not exist, the program handles the error using exception handling and displays an appropriate error message instead of crashing.
 
 Task 4.2: Write and Append Data to a File
-This program takes input from the user and writes it to a file named output.txt.
+This program takes input from the user and writes it to a file named output.txt.It then takes additional input and appends it to the same file.
+Finally, the program reads and displays the complete content of the file.
 
 Task 5.1: Create a Dictionary of Student Marks
 A dictionary was created to store student names and their marks. The program takes user input to search for a student and displays the marks if found, otherwise shows an appropriate message.
 
 Task 5.2: Demonstrate List Slicing 
 A list of numbers from 1 to 10 was created. The first five elements were extracted using list slicing and then reversed. Both the extracted and reversed lists were displayed.
-It then takes additional input and appends it to the same file.
-Finally, the program reads and displays the complete content of the file.
