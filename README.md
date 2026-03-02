@@ -26,5 +26,11 @@ If the file does not exist, the program handles the error using exception handli
 
 Task 4.2: Write and Append Data to a File
 This program takes input from the user and writes it to a file named output.txt.
+
+Task 5.1: Create a Dictionary of Student Marks
+A dictionary was created to store student names and their marks. The program takes user input to search for a student and displays the marks if found, otherwise shows an appropriate message.
+
+Task 5.2: Demonstrate List Slicing 
+A list of numbers from 1 to 10 was created. The first five elements were extracted using list slicing and then reversed. Both the extracted and reversed lists were displayed.
 It then takes additional input and appends it to the same file.
 Finally, the program reads and displays the complete content of the file.
